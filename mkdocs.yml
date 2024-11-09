@@ -1,0 +1,13 @@
+site_name: DataPower Docs Base
+
+docs_dir: .
+
+use_directory_urls: false
+
+theme:
+  name: material
+  nav_style: nested
+
+plugins:
+  - search
+  - awesome-pages
